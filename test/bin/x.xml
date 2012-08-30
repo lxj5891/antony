@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<string xmlns="http://tempuri.org/">
+	<DocList>
+		<Document>
+			<rnum>1</rnum>
+			<DOC_ID>0074A0574D1Z</DOC_ID>
+			<TITLE>해외출장 품의서 (해외 근태 I/F Test 00)</TITLE>
+			<COMPLETE_DATE>2011-12-13T17:25:46.11+09:00</COMPLETE_DATE>
+			<REG_DATE>2011-12-13T14:39:32.94+09:00</REG_DATE>
+			<FORM_ID>201111001926</FORM_ID>
+			<FORM_NM>해외출장 품의서</FORM_NM>
+			<DRAFT_ID>03878</DRAFT_ID>
+			<DRAFT_NM>정현주</DRAFT_NM>
+			<DEPT_ID>SB20140</DEPT_ID>
+			<DEPT_NM>Portal 운영 담당</DEPT_NM>
+			<ACL>06534,07596,03878</ACL>
+		</Document>
+		<Document>
+			<rnum>2</rnum>
+			<DOC_ID>0074A00840DZ</DOC_ID>
+			<TITLE>해외출장 품의서 (해외 근태 I/F 02)</TITLE>
+			<COMPLETE_DATE>2011-12-13T17:19:54.91+09:00</COMPLETE_DATE>
+			<REG_DATE>2011-12-13T14:30:25.643+09:00</REG_DATE>
+			<FORM_ID>201111001926</FORM_ID>
+			<FORM_NM>해외출장 품의서</FORM_NM>
+			<DRAFT_ID>03878</DRAFT_ID>
+			<DRAFT_NM>정현주</DRAFT_NM>
+			<DEPT_ID>SB20140</DEPT_ID>
+			<DEPT_NM>Portal 운영 담당</DEPT_NM>
+			<ACL>03878,06534</ACL>
+		</Document>
+		<Document>
+			<rnum>3</rnum>
+			<DOC_ID>00749D2539CZ</DOC_ID>
+			<TITLE>해외출장 품의서 (출장 근태 I/F 00)</TITLE>
+			<COMPLETE_DATE>2011-12-13T16:58:49.173+09:00</COMPLETE_DATE>
+			<REG_DATE>2011-12-13T13:40:00.057+09:00</REG_DATE>
+			<FORM_ID>201111001926</FORM_ID>
+			<FORM_NM>해외출장 품의서</FORM_NM>
+			<DRAFT_ID>03878</DRAFT_ID>
+			<DRAFT_NM>정현주</DRAFT_NM>
+			<DEPT_ID>SB20140</DEPT_ID>
+			<DEPT_NM>Portal 운영 담당</DEPT_NM>
+			<ACL>03878,06534,07596</ACL>
+		</Document>
+		<Document>
+			<rnum>4</rnum>
+			<DOC_ID>00749C4F81DZ</DOC_ID>
+			<TITLE>해외출장 품의서 (출장 기안Test)</TITLE>
+			<COMPLETE_DATE>2011-12-13T17:03:52.607+09:00</COMPLETE_DATE>
+			<REG_DATE>2011-12-13T13:27:30.917+09:00</REG_DATE>
+			<FORM_ID>201111001926</FORM_ID>
+			<FORM_NM>해외출장 품의서</FORM_NM>
+			<DRAFT_ID>03878</DRAFT_ID>
+			<DRAFT_NM>정현주</DRAFT_NM>
+			<DEPT_ID>SB20140</DEPT_ID>
+			<DEPT_NM>Portal 운영 담당</DEPT_NM>
+			<ACL>03878,06534,07596</ACL>
+		</Document>
+		<Document>
+			<rnum>5</rnum>
+			<DOC_ID>00748F902CCZ</DOC_ID>
+			<TITLE>해외출장 품의서 (근태 I/F 기안 및 승인)</TITLE>
+			<COMPLETE_DATE>2011-12-13T09:49:14.813+09:00</COMPLETE_DATE>
+			<REG_DATE>2011-12-13T09:45:32.08+09:00</REG_DATE>
+			<FORM_ID>201111001926</FORM_ID>
+			<FORM_NM>해외출장 품의서</FORM_NM>
+			<DRAFT_ID>03878</DRAFT_ID>
+			<DRAFT_NM>정현주</DRAFT_NM>
+			<DEPT_ID>SB20140</DEPT_ID>
+			<DEPT_NM>Portal 운영 담당</DEPT_NM>
+			<ACL>07596,06534</ACL>
+		</Document>
+		<Document>
+			<rnum>6</rnum>
+			<DOC_ID>007440CF465Z</DOC_ID>
+			<TITLE>해외출장 품의서 (출장 근태 기안 및 승인Test)</TITLE>
+			<COMPLETE_DATE>2011-12-12T10:58:35.837+09:00</COMPLETE_DATE>
+			<REG_DATE>2011-12-12T10:50:57.203+09:00</REG_DATE>
+			<FORM_ID>201111001926</FORM_ID>
+			<FORM_NM>해외출장 품의서</FORM_NM>
+			<DRAFT_ID>03878</DRAFT_ID>
+			<DRAFT_NM>정현주</DRAFT_NM>
+			<DEPT_ID>SB20140</DEPT_ID>
+			<DEPT_NM>Portal 운영 담당</DEPT_NM>
+			<ACL>03878,06534</ACL>
+		</Document>
+	</DocList>
+</string> 
