@@ -99,5 +99,19 @@
 			<DEPT_NM>Portal 운영 담당</DEPT_NM>
 			<ACL>03878,06534</ACL>
 		</Document>
+		<Document>
+			<rnum>2</rnum>
+			<DOC_ID>0074ASFSFS00840DZ</DOC_ID>
+			<TITLE>해외출장 품의서 (해외 근태 I/F 02)</TITLE>
+			<COMPLETE_DATE>2011-12-13T17:19:54.91+09:00</COMPLETE_DATE>
+			<REG_DATE>2011-12-13T14:30:25.643+09:00</REG_DATE>
+			<FORM_ID>201111001926</FORM_ID>
+			<FORM_NM>해외출장 품의서</FORM_NM>
+			<DRAFT_ID>03878</DRAFT_ID>
+			<DRAFT_NM>정현주</DRAFT_NM>
+			<DEPT_ID>SB20140</DEPT_ID>
+			<DEPT_NM>Portal 운영 담당</DEPT_NM>
+			<ACL>03878,06534</ACL>
+		</Document>
 	</DocList>
 </string> 
