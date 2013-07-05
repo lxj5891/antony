@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title>Dashboard - Stilearn Admin Bootstrap</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+            <script src="FlexPaper/js/jquery.js" type="text/javascript"></script>
+    <script src="FlexPaper/js/flexpaper_flash_debug.js" type="text/javascript"></script>
+    <script src="FlexPaper/js/flexpaper_flash.js" type="text/javascript"></script>
+
+     <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+        <!--[if lt IE 9]>
+          <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /></head>
+
+    <body>
+        <div style="position:absolute;left:10px;top:10px;">
+            <a id="viewerPlaceHolder" style="width:660px;height:480px;display:block"></a>         
+            <script type="text/javascript"> 
+                var fp = new FlexPaperViewer(    
+                         'FlexPaper/FlexPaperViewer', 
+                         'viewerPlaceHolder',     <!--对应于a 标签的id-->
+                         { config : {
+                         SwfFile : escape('swf/ewq.swf'),  <!--这句是关键: SwfFile: 指示导入的.swf的路径-->
+                         Scale : 0.6, 
+                         ZoomTransition : 'easeOut',
+                         ZoomTime : 0.5,
+                         ZoomInterval : 0.2,
+                         FitPageOnLoad : true,
+                         FitWidthOnLoad : false,
+                         PrintEnabled : true,
+                         FullScreenAsMaxWindow : false,
+                         ProgressiveLoading : false,
+                         MinZoomSize : 0.2,
+                         MaxZoomSize : 5,
+                         SearchMatchAll : false,
+                         InitViewMode : 'Portrait',
+                         
+                         ViewModeToolsVisible : true,
+                         ZoomToolsVisible : true,
+                         NavToolsVisible : true,
+                         CursorToolsVisible : true,
+                         SearchToolsVisible : true,
+                           localeChain: 'en_US'
+                         }});
+            </script>
+        </div>
+    </body>
+</html>
